@@ -1,7 +1,17 @@
 # Self-Case-Study-on-Mercedes-Greener-Manufacturing-Kaggle-Competition
 
-## Final Experimentation 
-1. This file contains EDA, Preprocessing, Featurisation and Model Experimentation.
+## Final_Experimentation.ipnyb
+
+1. This file contains following
+1. Buisness Problem Description
+2. Exploratory Data Analysis
+3. Data Preprocessing, 
+4. Data Featurisation,
+5. Model Experimentation.
+6. Custom Model Implementation with Basic Machine Learning Algorithms
+7. Custom Model Implementaion with Meta Classifier as MLP.
+8. Observation, Conclusion and Summary.
+
 
 ## Final.ipnyb
 
